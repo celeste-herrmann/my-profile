@@ -4,21 +4,21 @@ body {
 	background-color: rgb(255,255,255);
 	color: #252D35;
 	font-family: 'Roboto', sans-serif;
-	font-size: 27px;
-	line-height: 30px;
+	font-size: 18px;
+	line-height: 25px;
 
 }
 
 h1 {
 	font-family: 'Rubik', sans-serif;
 	color: #EF233C;
-	font-size: 57px;
+	font-size: 45px;
 }
 
 h2, h3 {
 	font-family: 'Rubik', sans-serif;
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 30px;
 	color: #EF233C;
 }
 
@@ -41,8 +41,8 @@ a:hover {
 
 .card-white {
 	background-color: white;
-	padding: 40px;
-	border-radius: 5px;
+	padding: 35px;
+	border-radius: 10px;
 	box-shadow: 0 10px 30px rgba(0,0,0,.1);
 	margin: 25px 0px;
 	text-align: center;
@@ -51,7 +51,7 @@ a:hover {
 
 .img-circle {
 	border-radius: 50%;
-	width: 450px;
+	width: 250px;
 }
 
 .btn-blue {
@@ -79,7 +79,7 @@ a:hover {
 }
 
 .list-inline i {
-	font-size: 70px;
+	font-size: 60px;
 }
 
 .list-inline i:hover {
